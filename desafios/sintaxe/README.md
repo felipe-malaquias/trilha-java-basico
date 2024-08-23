@@ -1,8 +1,11 @@
 # DIO - Trilha Java Básico
 www.dio.me
 
-#### Autores
+#### Autor
 - [Gleyson Sampaio](https://github.com/glysns)
+
+#### Aluno
+- [Felipe Malaquias](https://github.com/felipe-malaquias)
 
 ## Sintaxe - Desafio
 
