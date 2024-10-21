@@ -30,41 +30,14 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), foi elaborada
 ### Diagrama UML
 <p align="center">  
   <img 
-    src="https://github.com/felipe-malaquias/trilha-java-basico/blob/main/desafios/poo/assets/diagrama_de_classes3.drawio.png?  raw=true" alt="Texto Alternativo"
+    src="https://github.com/felipe-malaquias/trilha-java-basico/blob/main/desafios/poo/assets/diagrama_de_classes3.drawio.png?  raw=true" alt="Diagrama UML"
   />
 </p>
 
-### Exemplo de Diagrama UML (Mermaid)
-```mermaid
-classDiagram
-    class ReprodutorMusical {
-        +exemploMetodo1()
-        +exemploMetodo2(String exemplo)
-    }
 
-    class AparelhoTelefonico {
-        +exemploMetodo1()
-        +exemploMetodo2(String exemplo)
-    }
+### Realização
+ Após assistir ao vídeo do lançamento do iPhone e entender as funcionalidades principais, foi utilizada para criar o diagrama das classes e interfaces a ferramenta [draw.io](https://app.diagrams.net/). Além da implementação das classes Java representadas no diagrama UML.
 
-    class NavegadorInternet {
-        +exemploMetodo1()
-        +exemploMetodo2(String exemplo)
-    }
-
-    class iPhone {
-    }
-
-    iPhone --> ReprodutorMusical
-    iPhone --> AparelhoTelefonico
-    iPhone --> NavegadorInternet
-```
-
-### Instruções
-1. Assista ao vídeo do lançamento do iPhone para entender as funcionalidades principais.
-2. Utilize uma ferramenta UML de sua preferência para criar o diagrama das classes e interfaces. Você pode utilizar o modelo acima (criado na sintaxe [Mermaid](https://mermaid.js.org/)), uma alternativa open-source e compatível com arquivos Markdown como este.
-3. Opcionalmente, caso esteja cheio(a) de confiança, pode implementar as classes Java representadas em seu diagrama UML.
-4. Submeta seu repositório GitHub conforme as orientações da plataforma DIO. Por exemplo:
 
 ```bash
 https://github.com/glysns/trilha-java-basico/desafios/poo/README.md
