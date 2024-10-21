@@ -28,7 +28,11 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), foi elaborada
 2. Implementar as classes e interfaces correspondentes em Java (Opcional).
 
 ### Diagrama UML
-<img src="https://github.com/felipe-malaquias/trilha-java-basico/blob/main/desafios/poo/assets/diagrama_de_classes3.drawio.png?raw=true" alt="Texto Alternativo">
+<p align="center">  
+  <img 
+    src="https://github.com/felipe-malaquias/trilha-java-basico/blob/main/desafios/poo/assets/diagrama_de_classes3.drawio.png?  raw=true" alt="Texto Alternativo"
+  />
+</p>
 
 ### Exemplo de Diagrama UML (Mermaid)
 ```mermaid
