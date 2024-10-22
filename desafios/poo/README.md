@@ -36,9 +36,28 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), foi elaborada
 
 
 ### Realização
- Após assistir ao vídeo do lançamento do iPhone e entender as funcionalidades principais, foi utilizada para criar o diagrama das classes e interfaces a ferramenta [draw.io](https://app.diagrams.net/). Além da implementação das classes Java representadas no diagrama UML.
+ Após assistir ao vídeo do lançamento do iPhone e entender as funcionalidades principais, foi utilizada para criar o diagrama das classes e interfaces a ferramenta [draw.io](https://app.diagrams.net/). Além da implementação das classes Java que podem ser encontradas na pasta src.
 
 
-```bash
-https://github.com/glysns/trilha-java-basico/desafios/poo/README.md
-```` 
+## 👨‍💻 Aluno
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/157316361?s=400&v=4"
+    />
+    <p>&nbsp&nbsp&nbspFelipe Malaquias<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/felipe-malaquias">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/felipe-malaquias-1b20642b2/">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/felipemalaquias_/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
+
